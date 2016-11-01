@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://alpha.qussla.com/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
